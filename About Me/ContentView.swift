@@ -11,8 +11,8 @@ struct ContentView: View {
     var body: some View {
             
             VStack {
-                Spacer(minLength: 30)
-                Text("About Me!")
+                Spacer(minLength: 30) //among us
+                Text("About Me!!")
                     .font(.largeTitle)
                     .fontWeight(.semibold)
                     .fontDesign(.serif)
